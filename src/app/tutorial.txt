@@ -14,7 +14,9 @@
 
 . criar component menu em shared, criar menu de navegação depois add o selector app-menu no app.componet.ts
 
-.usar o routerLink insted href 
+.usar o routerLink insted href
+
+. usar routerLinkActive e o routerLinkActiveOption chamando class scss  pra pintar o iten do menu que estiver ativo no momento
 
 
 
