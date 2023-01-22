@@ -10,5 +10,11 @@
 
 . em app.routing.modules passar os path das páginas
 
+. add rota conringa usando redirectTo page
+
+. criar component menu em shared, criar menu de navegação depois add o selector app-menu no app.componet.ts
+
+.usar o routerLink insted href 
+
 
 
