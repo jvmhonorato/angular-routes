@@ -1,0 +1,6 @@
+.ng new <nome do projeto>
+
+. configurando routes em  app-routing.module.ts
+
+
+
