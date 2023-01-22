@@ -1,14 +1,14 @@
-.ng new <nome do projeto>
+. ng new <nome do projeto>
 
 . configurando routes em  app-routing.module.ts
 
-.apagar app.component.html spec e scss
+. apagar app.component.html spec e scss
 
 . no app.component.ts inserir no template entre cráses de templates string o <router-outlet></router-outlet>
 
-.criar 3 components: home, sobre, pageErro[disableRipple]="true"
+. criar 3 components: home, sobre, pageErro[disableRipple]="true"
 
-.em app.routing.modules passar os path das páginas
+. em app.routing.modules passar os path das páginas
 
 
 

@@ -10,6 +10,7 @@ const routes: Routes = [
   {path:"",component: HomeComponent,pathMatch: 'full'},
   {path:"sobre",component: SobreComponent},
   {path:"404",component: PageErrorComponent},
+  {path:"**",redirectTo:"404"},
 ];
 
 @NgModule({
