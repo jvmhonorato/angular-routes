@@ -18,5 +18,11 @@
 
 . usar routerLinkActive e o routerLinkActiveOption chamando class scss  pra pintar o iten do menu que estiver ativo no momento
 
+.em app routing.ts passar o :id e o username
+
+. passar o activatedRoute.params eo activatedRoute.queryParams no component em questão pra pegar o id e o username que são os valores de rotas que tiver na url so navegador 
+
+.
+
 
 
