@@ -24,7 +24,11 @@
 
 . Em app-routing.module.ts adicionar um array de rotas children aque ser subrotas como id e username
 
-.
+
+
+LAZY LOADING
+
+.criar: ng g m /dashboard
 
 
 
