@@ -28,7 +28,9 @@
 
 LAZY LOADING
 
-.criar: ng g m /dashboard
+.criar modulo: ng g m /dashboard
+
+.criar component: ng g c /dashboard/pages/home
 
 
 
