@@ -19,9 +19,11 @@ export class SobreComponent implements OnInit  {
         res =>
         console.log(res)
       )
-      setInterval(() => {
-        //this.router.navigate(['404']);
-       this.router.navigateByUrl('404');
-      },3000)
+
+      // //redirect
+      // setInterval(() => {
+      //   //this.router.navigate(['404']);
+      //  this.router.navigateByUrl('404');
+      // },3000)
     }
 }

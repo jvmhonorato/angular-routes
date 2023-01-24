@@ -20,7 +20,9 @@
 
 .em app routing.ts passar o :id e o username
 
-. passar o activatedRoute.params eo activatedRoute.queryParams no component em questão pra pegar o id e o username que são os valores de rotas que tiver na url so navegador 
+. passar o activatedRoute.params eo activatedRoute.queryParams no component em questão pra pegar o id e o username que são os valores de rotas que tiver na url so navegador
+
+. Em app-routing.module.ts adicionar um array de rotas children aque ser subrotas como id e username
 
 .
 
