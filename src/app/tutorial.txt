@@ -38,7 +38,9 @@ LAZY LOADING
 
 .em DashboardModule importar e declarar o DashboardRoutingModule
 
-. passar rota em menu.component.html 
+. passar rota em menu.component.html
+
+.add em app-routing.module.ts o useHash
 
 
 
