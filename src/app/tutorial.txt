@@ -32,5 +32,13 @@ LAZY LOADING
 
 .criar component: ng g c /dashboard/pages/home
 
+. criar em dashboard : dashboard-routing.ts a por como forChild()
+
+. EM app-routing.ts passar uma rota com loadChild chamando a rota de dashboard-routing.ts
+
+.em DashboardModule importar e declarar o DashboardRoutingModule
+
+. passar rota em menu.component.html 
+
 
 
